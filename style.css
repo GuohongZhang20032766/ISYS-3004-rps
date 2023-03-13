@@ -16,7 +16,7 @@ body{
     font-size: 65px;
 }
 
-.circle: :hover {
+.circle:hover {
     background-color: gray;
 }
 
